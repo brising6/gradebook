@@ -3,11 +3,7 @@ package gradebook.model;
 import java.util.Collection;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 7:48 AM
- * To change this template use File | Settings | File Templates.
+ * This is the grading scheme interface.
  */
 public interface GradingScheme {
     /**
