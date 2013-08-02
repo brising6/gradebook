@@ -1,11 +1,8 @@
 package gradebook.model;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 7:08 AM
- * To change this template use File | Settings | File Templates.
+ * This is the storable interface for things
+ * to be stored in the database.
  */
 public interface Storable {
     /**

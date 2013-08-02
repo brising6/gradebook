@@ -3,11 +3,7 @@ package gradebook.model;
 import java.util.ArrayList;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 5:55 AM
- * To change this template use File | Settings | File Templates.
+ * This class helps with finding grades for each component.
  */
 public abstract class Component implements Storable {
     /**

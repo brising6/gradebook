@@ -3,11 +3,7 @@ package gradebook.model;
 import java.util.ArrayList;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/30/13
- * Time: 9:25 PM
- * To change this template use File | Settings | File Templates.
+ * This is the Class class.
  *
  * @author Brandon
  */

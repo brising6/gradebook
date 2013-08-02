@@ -1,11 +1,7 @@
 package gradebook.model;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 7:07 AM
- * To change this template use File | Settings | File Templates.
+ * This is the datastore interface.
  */
 public interface Datastore {
     /**

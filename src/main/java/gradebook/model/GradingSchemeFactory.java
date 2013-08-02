@@ -5,11 +5,9 @@ import java.util.Collection;
 import java.util.HashMap;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 8:10 AM
- * To change this template use File | Settings | File Templates.
+ * This is one implementation of the GradingScheme.
+ * You can add things such as dropping the lowest grade
+ * and things like that by making changes to the grades beforehand.
  */
 public class GradingSchemeFactory implements GradingScheme {
     /**

@@ -1,11 +1,7 @@
 package gradebook.model;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/30/13
- * Time: 9:55 PM
- * To change this template use File | Settings | File Templates.
+ * This is one individual item of the gradebook.
  */
 public class GradebookItem {
     /**

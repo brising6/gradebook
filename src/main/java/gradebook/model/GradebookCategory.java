@@ -2,11 +2,7 @@ package gradebook.model;
 
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/30/13
- * Time: 9:51 PM
- * To change this template use File | Settings | File Templates.
+ * This class clarifies the type of a gradebook item.
  */
 public class GradebookCategory {
     /**

@@ -3,11 +3,7 @@ package gradebook.model;
 import java.util.HashMap;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Brandon
- * Date: 7/31/13
- * Time: 7:17 AM
- * To change this template use File | Settings | File Templates.
+ * This is one implementation of the datastore.
  */
 public class DatastoreHashMap implements Datastore {
     /**
